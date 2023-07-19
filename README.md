@@ -5,9 +5,9 @@
 ## Table of Contents
 * [Problem Statement](#problem-statement)
 * [Data Cleaning](#data-cleaning)
-* [Univariant & Segmented Univariant Analysis](#univariant-analysis)
+* [Univariant & Segmented Univariant Analysis](#univariant-&-segmented-univariant-analysis)
 * [Bivariant Analysis](#bivariant-analysis)
-* [Observations & Conclutions](#observations-conclutions)
+* [Observations & Conclutions](#observations-&-conclutions)
 
 
 ## Problem Statement
