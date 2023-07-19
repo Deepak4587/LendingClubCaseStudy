@@ -1,7 +1,5 @@
 # Lending Club Case Study
-> We would be analysing the data collected from a consumer finance company regarding the details of people for which loans were approved in the time period of 2007 to 2011.
-
-The defaulted applicants cause a major loss in this sector, and so the aim of this study is to analyse the dataset and identify the factors that are responsible that could cause people to default. This study is to understand the driving factors for situations related to deafulting arise.
+> The study will be analyzing the data collected for a consumer finance company related to the details of people who had loans approved and trying to find the various driving factors that could potentially lead to people not able to pay back the loan in the stipulated time, in the future.
 
 
 ## Table of Contents
