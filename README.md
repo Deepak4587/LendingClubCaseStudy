@@ -1,5 +1,5 @@
 # Lending Club Case Study
-> The study will be analyzing the data collected for a consumer finance company related to the details of people who had loans approved and trying to find the various driving factors that could potentially lead to people not able to pay back the loan in the stipulated time, in the future.
+> The study will be analyzing the data collected for a consumer finance company related to the details of people who had loans approved and we will try to find the various driving factors that could potentially lead to people not able to pay back the loan in the stipulated time, in the future.
 
 
 ## Table of Contents
