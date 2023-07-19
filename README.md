@@ -3,10 +3,10 @@
 
 
 ## Table of Contents
-* Problem Statement
+* [Problem Statement](#problem-statement)
 * Data Cleaning
 * Univariant & Segmented Univariant Analysis
-* Bivariant Analysis
+* [Bivariant Analysis](#bivariant-analysis)
 * Observations & Conclutions
 
 
