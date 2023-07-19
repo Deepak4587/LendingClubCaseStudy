@@ -1,52 +1,46 @@
-# Project Name
-> Outline a brief description of your project.
+# Lending Club Case Study
+> We would be analysing the data collected from a consumer finance company regarding the details of people for which loans were approved in the time period of 2007 to 2011.
+
+The defaulted applicants cause a major loss in this sector, and so the aim of this study is to analyse the dataset and identify the factors that are responsible that could cause people to default. This study is to understand the driving factors for situations related to deafulting arise.
 
 
 ## Table of Contents
-* [General Info](#general-information)
-* [Technologies Used](#technologies-used)
-* [Conclusions](#conclusions)
-* [Acknowledgements](#acknowledgements)
-
-<!-- You can include any other section that is pertinent to your problem -->
-
-## General Information
-- Provide general information about your project here.
-- What is the background of your project?
-- What is the business probem that your project is trying to solve?
-- What is the dataset that is being used?
-
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
-
-## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
-
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
+* Problem Statement
+* Data Cleaning
+* Univariant & Segmented Univariant Analysis
+* Bivariant Analysis
+* Observations & Conclutions
 
 
-## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
+## Problem Statement
+- We would be analysing the data collected from a consumer finance company regarding the details of people for which loans were approved in the time period of 2007 to 2011.
+- There are situations where people fully pay the loan, are in the process of paying (current), or did not complete the payment on time (default).
+- The defaulted applicants cause a major loss in this sector, and so the aim of this study is to analyse the dataset and identify the factors that are responsible that could cause people to default.
+- There could be various driving factors to this, likely related to the annual income, total amount to be paid etc.
+- We will be doing univariant and bivariant analysis on the data to come up with relevant information that could be useful for the company for future risk assessment.
 
-<!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
-## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
+## Data Cleaning
+- Columns that are not relevant for this analysis are removed from the dataset.
+- Columns that have a huge set of missing data are also removed.
+- Some columns are rounded off to 2 decimal places.
+- Duplicate records are removed.
+
+
+## Univariant & Segmented Univariant Analysis
+- Examples for ordered and unordered set that could be driving factors are identified.
+- Quantitative variables are also identified.
+- Freq vs Rank scales are plotted.
+
+
+## Bivariant Analysis
+- Identified dependency on loan status when considering multiple factors together.
+- Plotted the scales for various driving factors that are considered.
+
+## Observations & Conclutions
+- The various factors that are considerd to be the reasons for loan deafults are identified.
+- The necessary steps that could be taken in future considering these factors are explained and the people who could tend to default the loans in future could be identified based on these and necessary stpes (not sanctioning the loan) could be taken.
 
 
 ## Contact
-Created by [@githubusername] - feel free to contact me!
-
-
-<!-- Optional -->
-<!-- ## License -->
-<!-- This project is open source and available under the [... License](). -->
-
-<!-- You don't have to include all sections - just the one's relevant to your project -->
+Created by Deepak Dawny [deepakdawny@gmail.com] - feel free to contact me!
