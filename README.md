@@ -7,7 +7,7 @@
 * [Data Cleaning](#data-cleaning)
 * [Univariant & Segmented Univariant Analysis](#univariant-&-segmented-univariant-analysis)
 * [Bivariant Analysis](#bivariant-analysis)
-* [Observations & Conclutions](#observations-&-conclutions)
+* [Observations and Conclutions](#observations-and-conclutions)
 
 
 ## Problem Statement
@@ -35,7 +35,7 @@
 - Identified dependency on loan status when considering multiple factors together.
 - Plotted the scales for various driving factors that are considered.
 
-## Observations & Conclutions
+## Observations and Conclutions
 - The various factors that are considerd to be the reasons for loan deafults are identified.
 - The necessary steps that could be taken in future considering these factors are explained and the people who could tend to default the loans in future could be identified based on these and necessary stpes (not sanctioning the loan) could be taken.
 
