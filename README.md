@@ -5,7 +5,7 @@
 ## Table of Contents
 * [Problem Statement](#problem-statement)
 * [Data Cleaning](#data-cleaning)
-* [Univariant & Segmented Univariant Analysis](#univariant-&-segmented-univariant-analysis)
+* [Univariant & Segmented Univariant Analysis](#univariant-and-segmented-univariant-analysis)
 * [Bivariant Analysis](#bivariant-analysis)
 * [Observations and Conclutions](#observations-and-conclutions)
 
@@ -25,7 +25,7 @@
 - Duplicate records are removed.
 
 
-## Univariant & Segmented Univariant Analysis
+## Univariant and Segmented Univariant Analysis
 - Examples for ordered and unordered set that could be driving factors are identified.
 - Quantitative variables are also identified.
 - Freq vs Rank scales are plotted.
